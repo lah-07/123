@@ -1,0 +1,23 @@
+#cabecalho{
+background-color: #cccccc;
+width: 600px;
+padding: 40px 2%;
+color: white;
+text-align: center; }
+#corpo{
+background-color: red;
+width: 600px;
+padding: 10px 2%; }
+#rodape{
+width: 600px;
+padding: 10px 2%;
+background-color: #888888;
+color: white;
+text-align: center; }
+.caixas{
+text-align: center;
+width: 45%;
+background-color: rgb(201, 43, 43);
+display: inline-block; }
+Criar um arquivo novo com o nome
+estrutura4.css
